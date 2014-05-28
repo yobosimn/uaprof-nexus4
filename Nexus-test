@@ -16,7 +16,7 @@
           </rdf:Bag>
         </prf:InputCharSet>
         <prf:Keyboard>No</prf:Keyboard> 
-        <prf:Model>Nexus5</prf:Model> 
+        <prf:Model>Nexus4</prf:Model> 
         <prf:NumberOfSoftKeys>3</prf:NumberOfSoftKeys> 
         <prf:OutputCharSet>
           <rdf:Bag>
@@ -28,7 +28,7 @@
         </prf:OutputCharSet>
         <prf:PixelAspectRatio>1x1</prf:PixelAspectRatio> 
         <prf:PointingResolution>Pixel</prf:PointingResolution> 
-        <prf:ScreenSize>1080x1920</prf:ScreenSize> 
+        <prf:ScreenSize>768x1280</prf:ScreenSize> 
         <prf:ScreenSizeChar>25x21</prf:ScreenSizeChar> 
         <prf:StandardFontProportional>Yes</prf:StandardFontProportional> 
         <prf:SoundOutputCapable>Yes</prf:SoundOutputCapable> 
@@ -188,8 +188,6 @@
             <rdf:li>UMTS</rdf:li> 
             <rdf:li>EDGE</rdf:li> 
             <rdf:li>GPRS</rdf:li> 
-            <rdf:li>EVDO</rdf:li> 
-            <rdf:li>CDMA</rdf:li> 
             <rdf:li>WiFi</rdf:li>			
           </rdf:Bag>
         </prf:SupportedBearers>
