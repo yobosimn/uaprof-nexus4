@@ -1,4 +1,4 @@
-<!--DOCTYPE rdf:RDF SYSTEM "dtd/uaprof.dtd"--> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prf="http://www.openmobilealliance.org/tech/profiles/UAPROF/ccppschema-20021212#" xmlns:mms="http://www.openmobilealliance.org/tech/profiles/MMS/ccppschema-20050301-MMS1.2#" xmlns:pss5="http://www.3gpp.org/profiles/PSS/ccppschema-PSS5#">
   <rdf:Description rdf:ID="Profile">
     <prf:component>
